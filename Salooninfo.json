@@ -1,0 +1,7 @@
+[
+	{"Package_ID":"19471","Package_Name":"HairCut","Package_Cost":"100$","AddON":"Threading"},
+	{"Package_ID":"39472","Package_Name":"Facial","Package_Cost":"200$","AddON":"eyebrows"},
+	{"Package_ID":"39473","Package_Name":"waxing","Package_Cost":"450$","AddON":"upperlips"},
+	{"Package_ID":"19474","Package_Name":"Drapping","Package_Cost":"1000$","AddON":"waxing"},
+	{"Package_ID":"19547","Package_Name":"Spa","Package_Cost":"338$","AddON":"eyebrows"}
+]
